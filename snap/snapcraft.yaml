@@ -1,5 +1,5 @@
 name: config-snap
-base: core18
+base: core20
 version: '0.1'
 summary: Configure some defaults on Ubuntu Core images
 description: |
